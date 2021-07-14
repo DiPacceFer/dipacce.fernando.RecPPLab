@@ -1,0 +1,332 @@
+# depslib dependency file v1.0
+1621421344 source:c:\users\fernando\desktop\primer_parciallab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"validaciones.h"
+	"tipo.h"
+	"color.h"
+
+1621418483 source:c:\users\fernando\desktop\primer_parciallab\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1621411320 source:c:\users\fernando\desktop\primer_parciallab\fecha.c
+
+1621414563 source:c:\users\fernando\desktop\primer_parciallab\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+
+1621414563 c:\users\fernando\desktop\primer_parciallab\menu.h
+	"validaciones.h"
+
+1621414329 source:c:\users\fernando\desktop\primer_parciallab\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1621414329 c:\users\fernando\desktop\primer_parciallab\servicio.h
+
+1621418503 source:c:\users\fernando\desktop\primer_parciallab\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1621418802 c:\users\fernando\desktop\primer_parciallab\tipo.h
+
+1621421313 source:c:\users\fernando\desktop\primer_parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"color.h"
+	"validaciones.h"
+	"menu.h"
+	"tipo.h"
+
+1621421313 c:\users\fernando\desktop\primer_parciallab\bicicleta.h
+	"color.h"
+	"tipo.h"
+
+1621421313 c:\users\fernando\desktop\primer_parciallab\trabajo.h
+	"fecha.h"
+
+1621413824 c:\users\fernando\desktop\primer_parciallab\fecha.h
+
+1621420948 source:c:\users\fernando\desktop\primer_parciallab\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1621417556 source:c:\users\fernando\desktop\primer_parciallab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1621414329 c:\users\fernando\desktop\primer_parciallab\validaciones.h
+
+1621418802 c:\users\fernando\desktop\primer_parciallab\color.h
+
+1621940093 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"validaciones.h"
+	"tipo.h"
+	"color.h"
+
+1622015060 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\bicicleta.h
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+
+1622015060 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\color.h
+
+1622017671 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\tipo.h
+
+1621414329 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\validaciones.h
+
+1621411320 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\fecha.c
+
+1622024492 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+
+1622015060 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\menu.h
+	"validaciones.h"
+
+1622025084 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1622025084 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\servicio.h
+
+1622017919 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1622016983 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1622016857 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\trabajo.h
+	"fecha.h"
+	"validaciones.h"
+	"servicio.h"
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1621413824 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\fecha.h
+
+1621939082 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1622025035 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"color.h"
+	"validaciones.h"
+	"menu.h"
+	"tipo.h"
+	"servicio.h"
+	"informes.h"
+
+1621939521 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1621940603 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\cliente.c
+	"cliente.h"
+
+1622015060 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1622024725 source:c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\informes.c
+	"informes.h"
+
+1622024787 c:\users\fernando\desktop\dipacce.fernando.pplab1\primer_parciallab\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"bicicleta.h"
+	"tipo.h"
+	"cliente.h"
+	"validaciones.h"
+	"trabajo.h"
+
+1621411320 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\fecha.c
+
+1626255432 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\informes.c
+	"informes.h"
+
+1626255287 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+	"bicicleta.h"
+	"tipo.h"
+	"cliente.h"
+	"validaciones.h"
+	"trabajo.h"
+
+1622636498 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\color.h
+
+1622636498 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\bicicleta.h
+	"color.h"
+	"tipo.h"
+	"cliente.h"
+
+1626247331 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\tipo.h
+
+1626250282 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1626180961 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1626251802 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\trabajo.h
+	"fecha.h"
+	"validaciones.h"
+	"servicio.h"
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"cliente.h"
+
+1621413824 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\fecha.h
+
+1622025084 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\servicio.h
+
+1626257238 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"trabajo.h"
+	"color.h"
+	"validaciones.h"
+	"menu.h"
+	"tipo.h"
+	"servicio.h"
+	"informes.h"
+
+1622015060 c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\menu.h
+	"validaciones.h"
+
+1626255432 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+
+1626247923 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+
+1626247334 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1626251781 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"trabajo.h"
+
+1626250590 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"validaciones.h"
+	"tipo.h"
+	"color.h"
+
+1626253751 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\cliente.c
+	"cliente.h"
+
+1626247925 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\color.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"color.h"
+
+1626181856 source:c:\users\fernando\desktop\utn\programacion 1\dipacce.fernando.pplab2\primer_parciallab\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
